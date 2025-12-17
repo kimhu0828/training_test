@@ -1,0 +1,17 @@
+diff --git a/README.md b/README.md
+index f5b6da9..847d526 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+ # lab1
++#Add main.c
+diff --git a/main.c b/main.c
+new file mode 100644
+index 0000000..31dbf45
+--- /dev/null
++++ b/main.c
+@@ -0,0 +1,4 @@
++int main(void)
++{
++	return 0;
++}
